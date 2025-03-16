@@ -1,1 +1,60 @@
+sent: message 1   | received: received: message 1   | latency: 0.000000 seconds
+sent: message 2   | received: received: message 2   | latency: 0.000000 seconds
+sent: message 3   | received: received: message 3   | latency: 0.000000 seconds
+sent: message 4   | received: received: message 4   | latency: 0.000000 seconds
+sent: message 5   | received: received: message 5   | latency: 0.000000 seconds
+sent: message 6   | received: received: message 6   | latency: 0.000000 seconds
+sent: message 7   | received: received: message 7   | latency: 0.000000 seconds
+sent: message 8   | received: received: message 8   | latency: 0.000000 seconds
+sent: message 9   | received: received: message 9   | latency: 0.000000 seconds
+sent: message 10  | received: received: message 10  | latency: 0.000000 seconds
+sent: message 11  | received: received: message 11  | latency: 0.000000 seconds
+sent: message 12  | received: received: message 12  | latency: 0.000000 seconds
+sent: message 13  | received: received: message 13  | latency: 0.000000 seconds
+sent: message 14  | received: received: message 14  | latency: 0.000000 seconds
+sent: message 15  | received: received: message 15  | latency: 0.000000 seconds
+sent: message 16  | received: received: message 16  | latency: 0.000000 seconds
+sent: message 17  | received: received: message 17  | latency: 0.000000 seconds
+sent: message 18  | received: received: message 18  | latency: 0.000000 seconds
+sent: message 19  | received: received: message 19  | latency: 0.000000 seconds
+sent: message 20  | received: received: message 20  | latency: 0.000000 seconds
+sent: message 21  | received: received: message 21  | latency: 0.000000 seconds
+sent: message 22  | received: received: message 22  | latency: 0.000000 seconds
+sent: message 23  | received: received: message 23  | latency: 0.000000 seconds
+sent: message 24  | received: received: message 24  | latency: 0.000000 seconds
+sent: message 25  | received: received: message 25  | latency: 0.000000 seconds
+sent: message 26  | received: received: message 26  | latency: 0.000000 seconds
+sent: message 27  | received: received: message 27  | latency: 0.000000 seconds
+sent: message 28  | received: received: message 28  | latency: 0.000000 seconds
+sent: message 29  | received: received: message 29  | latency: 0.000000 seconds
+sent: message 30  | received: received: message 30  | latency: 0.000000 seconds
+sent: message 31  | received: received: message 31  | latency: 0.000000 seconds
+sent: message 32  | received: received: message 32  | latency: 0.000000 seconds
+sent: message 33  | received: received: message 33  | latency: 0.000000 seconds
+sent: message 34  | received: received: message 34  | latency: 0.000000 seconds
+sent: message 35  | received: received: message 35  | latency: 0.000000 seconds
+sent: message 36  | received: received: message 36  | latency: 0.000000 seconds
+sent: message 37  | received: received: message 37  | latency: 0.000000 seconds
+sent: message 38  | received: received: message 38  | latency: 0.000000 seconds
+sent: message 39  | received: received: message 39  | latency: 0.000000 seconds
+sent: message 40  | received: received: message 40  | latency: 0.000000 seconds
+sent: message 41  | received: received: message 41  | latency: 0.000000 seconds
+sent: message 42  | received: received: message 42  | latency: 0.000000 seconds
+sent: message 43  | received: received: message 43  | latency: 0.000000 seconds
+sent: message 44  | received: received: message 44  | latency: 0.000000 seconds
+sent: message 45  | received: received: message 45  | latency: 0.000000 seconds
+sent: message 46  | received: received: message 46  | latency: 0.000000 seconds
+sent: message 47  | received: received: message 47  | latency: 0.000000 seconds
+sent: message 48  | received: received: message 48  | latency: 0.000000 seconds
+sent: message 49  | received: received: message 49  | latency: 0.000000 seconds
+sent: message 50  | received: received: message 50  | latency: 0.000000 seconds
+sent: message 51  | received: received: message 51  | latency: 0.014753 seconds
+sent: message 52  | received: received: message 52  | latency: 0.000000 seconds
+sent: message 53  | received: received: message 53  | latency: 0.000000 seconds
+...
+sent: message 99  | received: received: message 99  | latency: 0.000000 seconds
+sent: message 100 | received: received: message 100 | latency: 0.000000 seconds
+
+average latency is 0.000162 seconds
+throughput is 6160.76 messages per second
 
