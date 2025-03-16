@@ -1,4 +1,3 @@
-PS C:\Users\maska> & C:/msys64/uart64/bin/python.exe c:/Users/maska/OneDrive/De
 Sent: Message 1 | Received: Received: Message 1 | Latency: 0.000000 seconds
 Sent: Message 2 | Received: Received: Message 2 | Latency: 0.000000 seconds
 Sent: Message 3 | Received: Received: Message 3 | Latency: 0.000000 seconds
