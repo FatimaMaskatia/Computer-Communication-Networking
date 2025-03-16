@@ -1,1 +1,62 @@
+PS C:\Users\maska> & C:/msys64/uart64/bin/python.exe c:/Users/maska/OneDrive/De
+Sent: Message 1 | Received: Received: Message 1 | Latency: 0.000000 seconds
+Sent: Message 2 | Received: Received: Message 2 | Latency: 0.000000 seconds
+Sent: Message 3 | Received: Received: Message 3 | Latency: 0.000000 seconds
+Sent: Message 4 | Packet lost (no response)
+Sent: Message 5 | Received: Received: Message 5 | Latency: 0.000000 seconds
+Sent: Message 6 | Packet lost (no response)
+Sent: Message 7 | Received: Received: Message 7 | Latency: 0.000000 seconds
+Sent: Message 8 | Received: Received: Message 8 | Latency: 0.000000 seconds
+Sent: Message 9 | Packet lost (no response)
+Sent: Message 10 | Received: Received: Message 10 | Latency: 0.000741 seconds
+Sent: Message 11 | Received: Received: Message 11 | Latency: 0.000277 seconds
+Sent: Message 12 | Received: Received: Message 12 | Latency: 0.000000 seconds
+Sent: Message 13 | Received: Received: Message 13 | Latency: 0.000073 seconds
+Sent: Message 14 | Packet lost (no response)
+Sent: Message 15 | Packet lost (no response)
+Sent: Message 16 | Received: Received: Message 16 | Latency: 0.000000 seconds
+Sent: Message 17 | Received: Received: Message 17 | Latency: 0.000000 seconds
+Sent: Message 18 | Packet lost (no response)
+Sent: Message 19 | Received: Received: Message 19 | Latency: 0.000000 seconds
+Sent: Message 20 | Packet lost (no response)
+Sent: Message 21 | Received: Received: Message 21 | Latency: 0.000000 seconds
+Sent: Message 22 | Received: Received: Message 22 | Latency: 0.000000 seconds
+Sent: Message 23 | Received: Received: Message 23 | Latency: 0.000000 seconds
+Sent: Message 24 | Received: Received: Message 24 | Latency: 0.000000 seconds
+Sent: Message 25 | Received: Received: Message 25 | Latency: 0.000000 seconds
+Sent: Message 26 | Received: Received: Message 26 | Latency: 0.000000 seconds
+Sent: Message 27 | Received: Received: Message 27 | Latency: 0.000000 seconds
+Sent: Message 28 | Received: Received: Message 28 | Latency: 0.000000 seconds
+Sent: Message 29 | Packet lost (no response)
+Sent: Message 30 | Received: Received: Message 30 | Latency: 0.000000 seconds
+Sent: Message 31 | Received: Received: Message 31 | Latency: 0.000000 seconds
+Sent: Message 32 | Received: Received: Message 32 | Latency: 0.000000 seconds
+Sent: Message 33 | Received: Received: Message 33 | Latency: 0.000000 seconds
+Sent: Message 34 | Received: Received: Message 34 | Latency: 0.000000 seconds
+Sent: Message 35 | Packet lost (no response)
+Sent: Message 36 | Received: Received: Message 36 | Latency: 0.000000 seconds
+Sent: Message 37 | Received: Received: Message 37 | Latency: 0.000000 seconds
+Sent: Message 38 | Received: Received: Message 38 | Latency: 0.000000 seconds 
+Sent: Message 39 | Received: Received: Message 39 | Latency: 0.000000 seconds 
+Sent: Message 40 | Received: Received: Message 40 | Latency: 0.000000 seconds 
+Sent: Message 41 | Received: Received: Message 41 | Latency: 0.000000 seconds 
+Sent: Message 42 | Packet lost (no response)    
+Sent: Message 43 | Received: Received: Message 43 | Latency: 0.000000 seconds 
+Sent: Message 44 | Received: Received: Message 44 | Latency: 0.000000 seconds 
+Sent: Message 45 | Received: Received: Message 45 | Latency: 0.000000 seconds 
+Sent: Message 46 | Received: Received: Message 46 | Latency: 0.000000 seconds 
+Sent: Message 47 | Received: Received: Message 47 | Latency: 0.000000 seconds 
+Sent: Message 48 | Received: Received: Message 48 | Latency: 0.000000 seconds 
+Sent: Message 49 | Received: Received: Message 49 | Latency: 0.000000 seconds 
+Sent: Message 50 | Received: Received: Message 50 | Latency: 0.000000 seconds 
+Sent: Message 51 | Received: Received: Message 51 | Latency: 0.000000 seconds 
+Sent: Message 52 | Packet lost (no response)    
+Sent: Message 53 | Packet lost (no response)    
+...
+...
+Sent: Message 99    Received: Received: Message 99 | Latency: 0.000000 seconds
+Sent: Message 100    Received: Received: Message 100 | Latency: 0.000000 seconds
 
+Average Latency: 0.000013 seconds
+Packet Loss Rate: 16.00%
+Throughput: 5.22 messages per second
